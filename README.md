@@ -1,1 +1,2 @@
 # Project-IntelliJ
+Include Dependabot
