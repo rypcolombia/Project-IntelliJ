@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fragment1" />
+        <module name="fragment3" />
+        <module name="absolute-ordering-web-fragments-war" />
+        <module name="fragment2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="absolute-ordering-web-fragments" target="1.5" />
+      <module name="absolute-ordering-web-fragments-war" target="1.5" />
+      <module name="fragment1" target="1.5" />
+      <module name="fragment2" target="1.5" />
+      <module name="fragment3" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

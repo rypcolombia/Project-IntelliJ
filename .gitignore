@@ -1,0 +1,9 @@
+# Project exclude paths
+/absolute-ordering-web-fragments-war/${project.build.directory}/classes/
+/absolute-ordering-web-fragments-war/target/
+/fragment1/${project.build.directory}/classes/
+/fragment1/target/
+/fragment2/${project.build.directory}/classes/
+/fragment2/target/
+/fragment3/${project.build.directory}/classes/
+/fragment3/target/

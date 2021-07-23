@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javax.servlet-api-3.0.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Atlassian/Jira/atlassian-jira/WEB-INF/lib/javax.servlet-api-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/javax.servlet-api-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
